@@ -1,0 +1,36 @@
+{
+
+  "name": "Crìxa",
+
+  "version": "1.0.0",
+
+  "description": "Crìxa v5 Boş altyapı",
+
+  "main": "crìxa.js",
+
+  "scripts": {
+
+    "start": "node crìxa.js"
+
+  },
+
+  "engines": {
+
+    "node": "16.6"
+
+  },
+
+  "author": "",
+
+  "license": "ISC",
+
+  "dependencies": {
+
+    "aoi.js": "^5.1.0",
+
+    "ytdl-core-discord": "^1.3.1"
+
+  }
+
+}
+
