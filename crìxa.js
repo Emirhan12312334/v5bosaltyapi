@@ -4,7 +4,7 @@ const bot = new crixa.Bot({
 
 token: process.env.TOKEN, 
 
-prefix: "!", 
+prefix: "+", 
 
 intents: "all" 
 
